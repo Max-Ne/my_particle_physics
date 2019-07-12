@@ -1,0 +1,6 @@
+IDEA: standard example of calculating pi by drawing 2d random numbers in a square and count # below/above a unit circle
+
+
+which RNG?
+use python/matplotlib/numpy
+shouldnt need much effort
